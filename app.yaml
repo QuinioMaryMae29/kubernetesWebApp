@@ -15,7 +15,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
- name: kubernetesWebApp
+ name: k8s-activity-marymaequinio
  labels:
  app: nginx
 spec:
